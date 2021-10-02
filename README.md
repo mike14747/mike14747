@@ -8,4 +8,4 @@ My non-coding hobbies include: biking, gardening, baseball, pets, enjoying the o
 
 ### Contact
 
-Drop me a note at: <mikegullo4747@gmail.com>
+Drop me a note at: <mgullo.dev@gmail.com>
