@@ -5,6 +5,7 @@ I really enjoy working on all parts of web development, but especially Javascrip
 Lately I've been working on developing my own component library and have been building nearly all my projects with Next.js.
 
 ---
+---
 
 My non-coding hobbies include: biking, gardening, baseball, pets, national parks and enjoying the outdoors in general.
 
